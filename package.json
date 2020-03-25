@@ -1,0 +1,27 @@
+{
+  "name": "AdoptAPet",
+  "version": "1.0.0",
+  "description": "Pet adopting app to help local animal shelter",
+  "main": "App.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,html}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyoonique/AdoptAPet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyoonique/AdoptAPet/issues"
+  },
+  "homepage": "https://github.com/cyoonique/AdoptAPet#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "prettier": "^2.0.2"
+  }
+}
