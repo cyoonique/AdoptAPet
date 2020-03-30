@@ -1,0 +1,1 @@
+npm i -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal-class-properties @babel/preset-react

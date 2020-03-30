@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import pet, { ANIMALS } from "@frontendmasters/pet";
 import Results from "./Results";
 import useDropdown from "./useDropdown";
+import "regenerator-runtime/runtime";
 
 // hooks need to be in order
 const SearchParams = () => {
